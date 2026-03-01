@@ -1,0 +1,15 @@
+com\example\wallet\config\JacksonConfig.class
+com\example\wallet\WalletServiceApplication.class
+com\example\wallet\exception\InvalidAmountException.class
+com\example\wallet\exception\GlobalExceptionHandler.class
+com\example\wallet\exception\InsufficientFundsException.class
+com\example\wallet\config\TransactionConfig.class
+com\example\wallet\dto\OperationType.class
+com\example\wallet\model\Wallet.class
+com\example\wallet\dto\WalletOperationRequest.class
+com\example\wallet\exception\WalletNotFoundException.class
+com\example\wallet\controller\WalletController.class
+com\example\wallet\repository\WalletRepository.class
+com\example\wallet\config\DataSourceConfig.class
+com\example\wallet\service\WalletService.class
+com\example\wallet\dto\WalletBalanceResponse.class
